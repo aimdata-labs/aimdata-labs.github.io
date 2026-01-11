@@ -9,12 +9,12 @@ title: AIMdata
 <div class="col-sm-3">
 
 
-<a href = "aimdata.org">
-![](img/logo_squares.png)
+[![./img/logo_squares.png](./img/logo_squares.png)](https://www.aimdata.org)
+
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[contact](mailto:sean@aimdata.org)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[github](https://github.com/AIMdata-org)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[github](https://github.com/aimdata-labs)
 
 
 </div>
