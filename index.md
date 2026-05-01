@@ -35,6 +35,27 @@ This site showcases some of our projects. Other code and projects may also be fo
 and [Kenya repositories](https://github.com/orgs/kenya-eie-wg/repositories)
 
 
+<br><br><br>
+
+### [Malaysian Election Predictions](https://aimdata-labs.github.io/malaysian_elections/)
+26 January 2026. 
+
+[![./img/ph_predictions.png](./img/ph_predictions.png)](https://aimdata-labs.github.io/malaysian_elections/)
+
+<br><br><br>
+
+### [LinkedIn Job Postings Analysis](https://aimdata-labs.github.io/linkedin_postings/)
+26 January 2026. 
+
+[![./img/good_jobs.png](./img/good_jobs.png)](https://aimdata-labs.github.io/linkedin_postings/)
+
+
+<br><br><br>
+
+### [Google and Trip Advisor Reviews in Kuala Lumpur](https://aimdata-labs.github.io/google_trip_reviews_kl_site/)
+26 December 2025. 
+
+[![./img/restaurant_comparison_new_ratings2.png](./img/restaurant_comparison_new_ratings2.png)](https://aimdata-labs.github.io/google_trip_reviews_kl_site/)
 
 <br><br><br>
 
